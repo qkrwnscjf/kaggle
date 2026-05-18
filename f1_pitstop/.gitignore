@@ -1,0 +1,12 @@
+# Kaggle Data
+playground-series-s6e5/
+*.csv
+
+# Python/Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Virtual Environment
+venv/
+.env
